@@ -1,5 +1,6 @@
 <?php
 echo "Hola Mundo\n";
+echo"ola k ase";
 
 try {
     echo '<br />';
