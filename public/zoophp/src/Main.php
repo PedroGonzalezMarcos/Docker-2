@@ -39,7 +39,7 @@ echo "Especie: " . $especie . "\n";
 echo "Altura: " . $altura . "m.\n";
 echo "Espacio: " . $espacio . ".\n";
 echo "Frutal: " . ($frutal ? "Sí" : "No") . "\n";
-echo "the dolphin";
+echo "the
 
 $animal1 = new Animal("Luna", "Perro", 5);
 $animal1->setEdad(6);
