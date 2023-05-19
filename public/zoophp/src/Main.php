@@ -67,5 +67,6 @@ foreach ($vacineList as $vacuna) {
     echo "Fecha de la vacuna: " . $vacuna->fecha . "\n";
     echo "\n";
 }
+echo"Murcia es África";
 
 ?>
